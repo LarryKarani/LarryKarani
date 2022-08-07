@@ -3,7 +3,7 @@
 - 👂 My name is Larry Karani Kubende
 - 🔭 I’m currently working as a Frontend software engineer, Stack: React, Typescript, Tailwind CSS
 - 🌱 I’m currently learning EPIC react by Kent C Dodds
-- 💬 Ask me about React Perfomance, React Pertans
+- 💬 Ask me about React Perfomance, React Patterns
 - 📫 How to reach me: email: karanilarry@gmail.com
 
 
